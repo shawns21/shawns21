@@ -1,9 +1,9 @@
-## Hello, I'm Shawn
+## Hello, I'm Shawn⚡
 
-- Computer Science student at CUNY John Jay College of Criminal Justice
-- Researcher at USACE ERDC Geospatial Research Lab
-- Passion for robotics and coding
-- Created some personal full-stack web apps
+- Computer Science student at CUNY John Jay College of Criminal Justice 🏫
+- Researcher at USACE ERDC Geospatial Research Lab 📚
+- Passion for robotics and coding 🤖
+- Created some personal full-stack web apps 🖥️
 
 
 ## 🌐 Socials:
